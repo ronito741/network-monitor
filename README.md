@@ -37,8 +37,40 @@ Device Information Detection## Example Alert
 🌐 IP: 192.168.1.150
 🔑 MAC: AA:BB:CC:DD:EF:FE
 |
-v
+## Requirements
+
+- Raspberry Pi 5
+- Raspberry Pi OS
+- Python 3
+- Discord account with webhook access
+
+## Use Cases
+
+- Home network monitoring
+- IoT device tracking
+- Unauthorized device detection
+- Small network security monitoring
+- Learning network programming with Python
+
+## Disclaimer
+
+This tool is intended for monitoring networks you own or have permission to manage. Always respect privacy and local laws when monitoring network activity.
+
+
 Discord Alert
+raspberry-pi
+python
+network-monitoring
+discord-bot
+cybersecurity
+iot
+home-network
+scapy
+linux
+automation
+
+
+
 
 
 
