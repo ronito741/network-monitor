@@ -1,7 +1,7 @@
 
 ---
 
-# 2. `network_alert.py`
+# `network_alert.py`
 
 Use your full Python monitor script:
 
