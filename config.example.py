@@ -1,0 +1,7 @@
+# Copy this file to config.py
+
+NETWORK = "192.168.1.0/24"
+
+DISCORD_WEBHOOK = "YOUR_DISCORD_WEBHOOK"
+
+SCAN_INTERVAL = 60
