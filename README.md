@@ -74,7 +74,10 @@ Clone the repository:
 git clone https://github.com/YOURNAME/network-monitor.git
 
 cd network-monitor
-automation
+chmod +x install.sh
+./install.sh
+
+
 
 
 
