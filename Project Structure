@@ -1,0 +1,9 @@
+network-monitor/
+
+├── network_alert.py
+├── requirements.txt
+├── install/
+│   ├── install.sh
+│   └── uninstall.sh
+└── service/
+    └── network-alert.service
