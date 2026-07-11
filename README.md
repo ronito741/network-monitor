@@ -66,8 +66,20 @@ cybersecurity
 iot
 home-network
 scapy
-linux
+linux## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOURNAME/network-monitor.git
+
+cd network-monitor
 automation
+
+
+
+
+
 
 
 
