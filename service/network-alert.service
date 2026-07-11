@@ -1,0 +1,24 @@
+[Unit]
+Description=Raspberry Pi Discord Network Monitor
+After=network-online.target
+Wants=network-online.target
+
+
+[Service]
+
+Type=simple
+
+User=root
+
+WorkingDirectory=/home/ronito/network-monitor
+
+ExecStart=/usr/bin/python3 /home/ronito/network-monitor/network_alert.py
+
+Restart=always
+
+RestartSec=10
+
+
+[Install]
+
+WantedBy=multi-user.target
